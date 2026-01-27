@@ -1,0 +1,5 @@
+low*
+weak*
+decreasing
+decrease*
+slow*

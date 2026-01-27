@@ -1,0 +1,11 @@
+inflation
+price
+wage
+oil price
+cyclical position
+growth
+development
+employment
+unemployment
+recovery
+cost

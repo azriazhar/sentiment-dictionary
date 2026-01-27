@@ -1,0 +1,2 @@
+# sentiment-dictionary
+Sentiment Dictionary
